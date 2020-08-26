@@ -1,6 +1,7 @@
 # generator-cake-addin
 
 ![banner](graphics/icon_128x128.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWormieCorp%2Fgenerator-cake-addin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWormieCorp%2Fgenerator-cake-addin?ref=badge_shield)
 
 [![standard-readme compliant][]][standard-readme]
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
@@ -101,3 +102,6 @@ Thanks goes to these wonderful people ([emoji key][emoji-key]):
 [standard-readme compliant]: https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square
 [travis]: https://travis-ci.org/WormieCorp/generator-cake-addin
 [travisimage]: https://img.shields.io/travis/WormieCorp/generator-cake-addin.svg?logo=travis&style=flat-square
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWormieCorp%2Fgenerator-cake-addin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FWormieCorp%2Fgenerator-cake-addin?ref=badge_large)
